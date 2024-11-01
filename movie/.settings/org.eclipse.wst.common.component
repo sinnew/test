@@ -4,6 +4,5 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="movie"/>
         <property name="java-output-path" value="/movie/build/classes"/>
-        <div> commit test change </div>
     </wb-module>
 </project-modules>
